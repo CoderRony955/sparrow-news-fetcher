@@ -24,7 +24,7 @@ first go to the [NewsAPI](https://newsapi.org/ ) and get your api-key url, and t
 
 1. Clone the repository
 ```
-git clone https://github.com/Abhishek-Verma/Sparrow-News-Fetcher.git
+git clone https://github.com/CoderRony955/sparrow-news-fetcher.git
 ```
 2. Move to the cloned directory
 ```
