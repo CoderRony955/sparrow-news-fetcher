@@ -1,0 +1,44 @@
+QMainWindow {
+    background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1,
+            stop:0 #6D531E,
+            stop:1 #5A140F);
+}
+
+#QuerySearcherBox {
+    background-color: white;
+    color: black;
+    font: bold;
+    border-radius: 25px;
+    text-align: center;
+
+}
+#output{
+    background-color: white;
+    color: black;
+    font: bold;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#api-key-lineEdit{
+    background-color: white;
+    color: black;
+    font: bold;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#api-key-enter-btn{
+    background-color: white;
+    color: black;
+    font: bold;
+    border-radius: 15px;
+    text-align: center;
+}
+:hover#api-key-enter-btn{
+    background-color: rgb(247, 252, 191);
+    color: black;
+    font: bold;
+    border-radius: 15px;
+    text-align: center;
+}
