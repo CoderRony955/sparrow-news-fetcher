@@ -28,7 +28,7 @@ git clone https://github.com/CoderRony955/sparrow-news-fetcher.git
 ```
 2. Move to the cloned directory
 ```
-cd Sparrow-News-Fetcher
+cd sparrow-news-fetcher
 ```
 
 3. Create a virtual environment
@@ -51,17 +51,17 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-1. Install the dependencies
+5. Install the dependencies
 ```
 pip install -r requirements.txt
 ```
 
-1. Move to the main app directory
+6. Move to the main app directory
 ```
 cd main  
 ```
 
-1. Run the application
+7. Run the application
 ```
 python main.py
 ```
